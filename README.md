@@ -136,7 +136,7 @@ L'application sera accessible sur `http://localhost:3000`
 
 ## 📄 Licence
 
-Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+MIT
 
 ## 👥 Auteurs
 
